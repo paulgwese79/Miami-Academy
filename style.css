@@ -802,3 +802,10 @@ footer p{
     margin-bottom:20px;
     color:#444;
 }
+.admission-actions{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    margin-top:40px;
+    flex-wrap:wrap;
+}
